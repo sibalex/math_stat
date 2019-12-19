@@ -1,6 +1,6 @@
 # Mathematics and Python
 
-![71178167-a3598c80-227e-11ea-973a-a3f20f172312](https://user-images.githubusercontent.com/43387913/71183241-b07b7900-2288-11ea-9655-3707aa37c72f.png)
+![69982303-296a9900-1545-11ea-92a9-1e405a12438a](https://user-images.githubusercontent.com/43387913/71183623-5dee8c80-2289-11ea-8815-aa38e9bcf2e3.png)
 
 * 📗 [Visualization](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/8.%20Python_visualization/PYDA-viz.ipynb)
 * 📗 [Extra](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/10.%20Python_extra/PYDA-extra.ipynb)

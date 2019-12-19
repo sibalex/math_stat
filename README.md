@@ -2,7 +2,6 @@
 
 ![16](https://user-images.githubusercontent.com/43387913/69982303-296a9900-1545-11ea-92a9-1e405a12438a.jpeg)
 <br></br>
-
 * 📗 [Visualization](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/8.%20Python_visualization/PYDA-viz.ipynb)
 * 📗 [Extra](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/10.%20Python_extra/PYDA-extra.ipynb)
 * 📗 [Statistics](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/11.%20Python_Basics%20of%20descriptive%20statistics/lecture_1.ipynb)

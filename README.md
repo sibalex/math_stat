@@ -2,9 +2,9 @@
 
 ![69982303-296a9900-1545-11ea-92a9-1e405a12438a](https://user-images.githubusercontent.com/43387913/71183623-5dee8c80-2289-11ea-8815-aa38e9bcf2e3.png)
 
-* 📗 [Visualization](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/8.%20Python_visualization/PYDA-viz.ipynb)
+* 📗 [Visualization](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/8.%20Python_visualization/PYDA-viz.ipynb) _(matplotlib, seaborn, plotly)_
 * 📗 [Extra](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/10.%20Python_extra/PYDA-extra.ipynb)
-* 📗 [Statistics](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/11.%20Python_Basics%20of%20descriptive%20statistics/lecture_1.ipynb)
+* 📗 [Statistics](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/11.%20Python_Basics%20of%20descriptive%20statistics/lecture_1.ipynb) _(introduction)_
 * 📗 [CPT Statistics](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/12.%20Python_CPT_stat/lecture_2.ipynb)
 * 📗 [Descriptive statistics](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/13.%20Python_CPT_test_stat/lecture_3.ipynb) _(testing)_
 * 📗 [Statistics Сase](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/15.%20Py_stat_c1/lecture_4.ipynb)

@@ -8,7 +8,7 @@
 * 📗 [CPT Statistics](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/12.%20Python_CPT_stat/lecture_2.ipynb)
 * 📗 [Descriptive statistics](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/13.%20Python_CPT_test_stat/lecture_3.ipynb) _(testing)_
 * 📗 [Statistics Сase](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/15.%20Py_stat_c1/lecture_4.ipynb)
-* 📗 [Statistics Сase 2](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/16.%20Py_stat_c2/lecture_5_1.ipynb)
+* 📗 [Statistics Сase P2](https://github.com/Alex110117/math_stat/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Mathematics%20and%20Python/16.%20Py_stat_c2/lecture_5_1.ipynb)
 * 📙 [Credit Card Fraud Detection](https://github.com/Alex110117/math_stat/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/15.%20dz_12%20(A.Sib).ipynb)
 * 📙 [Indian liver patient](https://github.com/Alex110117/math_stat/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/13.%20dz_11%20(A.Sib).ipynb)
 * 📙 [ProfileReport](https://github.com/Alex110117/math_stat/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/14.%20labs2_pyda.ipynb)

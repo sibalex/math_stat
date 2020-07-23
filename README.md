@@ -15,6 +15,7 @@
 * 📙 [Types of distributions](https://github.com/Alex110117/math_stat/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/12.%20dz10%20(A.Sib).ipynb)
 * 📙 [Pandas](https://github.com/Alex110117/math_stat/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Mathematics%20and%20Python/6.%20dz6%20(A.Sib).ipynb)
 * 📙 [SQL connect](https://github.com/sibalex/math_stat/blob/master/notebooks/sql_connect.ipynb) _(mysql.connector, pymysql, psycopg2, sqlalchemy)_
+* 📙 [Statistical tests](https://github.com/sibalex/math_stat/blob/master/notebooks/stat_tests.ipynb)
 * 📙 [Web Scraping](https://github.com/sibalex/math_stat/blob/master/notebooks/WebScraping.ipynb) _(bs4, requests, pandas, find/find_all, css select, scrape table)_
 * 📙 [COVID-19 Open Research Dataset Challenge (CORD-19)](https://github.com/sibalex/math_stat/blob/master/notebooks/corona.ipynb) _(text analysis, json)_
 <br></br>
